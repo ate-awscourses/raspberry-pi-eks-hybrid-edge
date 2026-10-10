@@ -23,11 +23,11 @@ and Terraform.
 - [x] kubectl installed
 - [x] Existing EKS cluster reachable
 - [x] GitHub repository initialized
-- [ ] Verify EKS hybrid networking prerequisites
-- [ ] Document architecture and networking
-- [ ] Add Terraform configuration
-- [ ] Deploy a test workload
-- [ ] Add edge monitoring and automation
+- [x] Verify EKS hybrid networking prerequisites
+- [x] Document architecture and networking
+- [x] Add Terraform configuration
+- [x] Deploy a test workload
+- [x] Add edge monitoring and automation
 
 ## Important compatibility note
 
