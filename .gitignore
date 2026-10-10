@@ -1,0 +1,27 @@
+
+# Terraform state and local configuration
+*.tfstate
+*.tfstate.*
+.terraform/
+*.tfvars
+!*.tfvars.example
+crash.log
+crash.*.log
+
+# AWS credentials and secrets
+.aws/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local output and logs
+*.log
+.DS_Store
