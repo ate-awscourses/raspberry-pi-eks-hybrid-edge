@@ -25,3 +25,6 @@ venv/
 # Local output and logs
 *.log
 .DS_Store
+
+# Generated telemetry output
+/data/*.json
